@@ -20,5 +20,10 @@
   "dependencies": {
     "knockout": "^3.5.1",
     "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
   }
 }
