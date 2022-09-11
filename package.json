@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredShakespaere/ecommerceSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaredShakespaere/ecommerceSite/issues"
+  },
+  "homepage": "https://github.com/JaredShakespaere/ecommerceSite#readme",
+  "dependencies": {
+    "knockout": "^3.5.1",
+    "mustache": "^4.2.0"
+  }
+}
